@@ -21,7 +21,7 @@ This project is a Java backend application for a Currency Converter, allowing us
 ## Setup Instructions
 
 1. **Clone the repository:**
-https://github.com/VSawyerHub/CurrencyConverter.git
+https://github.com/thidspessoa/Conversor_Moedas_Java.git
 
 2. **Navigate to project directory:**
 cd currency-converter
